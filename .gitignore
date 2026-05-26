@@ -1,0 +1,16 @@
+.codemie
+
+# Eclipse
+.classpath
+.project
+
+# Intellij
+.idea
+.idea/workspace.xml
+.settings/
+*.iws
+
+# Maven
+log/
+target/
+*.iml
